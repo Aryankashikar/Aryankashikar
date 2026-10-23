@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-label="Featured project: Riffle">
+<defs>
+  <linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#6366f1"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+  <linearGradient id="a" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#22d3ee" stop-opacity=".3"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></linearGradient>
+</defs>
+<style>.t{font-family:'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif} .m{font-family:'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace}
+.ln{stroke-dasharray:600;stroke-dashoffset:600;animation:draw 2s .4s ease-out forwards} @keyframes draw{to{stroke-dashoffset:0}}
+.ar{opacity:0;animation:fi 1s 1.6s forwards} @keyframes fi{to{opacity:1}}
+.dot{animation:pulse 1.8s ease-out infinite;transform-box:fill-box;transform-origin:center} @keyframes pulse{0%{transform:scale(1);opacity:.8}100%{transform:scale(3.2);opacity:0}}
+.eq{transform-box:fill-box;transform-origin:bottom;animation:eq 1.2s ease-in-out infinite} @keyframes eq{0%,100%{transform:scaleY(.3)}50%{transform:scaleY(1)}}
+</style>
+<rect x="1" y="1" width="1198" height="228" rx="18" fill="#0b1220" stroke="#1e293b" stroke-width="2"/>
+<rect x="1" y="30" width="5" height="170" rx="2.5" fill="url(#l)"/>
+<text x="44" y="52" class="m" font-size="13" letter-spacing="2" fill="#94a3b8">FEATURED PROJECT</text>
+<circle cx="236" cy="47" r="4" fill="#10b981"/><circle class="dot" cx="236" cy="47" r="4" fill="#10b981"/>
+<text x="248" y="52" class="m" font-size="13" fill="#10b981">in progress</text>
+<text x="42" y="108" class="t" font-size="46" font-weight="800" fill="#f8fafc" letter-spacing="-1">Riffle</text>
+<g transform="translate(196,104)">
+  <rect class="eq" x="0" y="-26" width="6" height="26" rx="3" fill="#22d3ee"/>
+  <rect class="eq" x="10" y="-26" width="6" height="26" rx="3" fill="#6366f1" style="animation-delay:.3s"/>
+  <rect class="eq" x="20" y="-26" width="6" height="26" rx="3" fill="#22d3ee" style="animation-delay:.6s"/>
+</g>
+<text x="44" y="146" class="t" font-size="19" fill="#cbd5e1">A web app that helps local music listeners discover local artists and events.</text>
+<g class="m" font-size="13">
+  <rect x="44" y="168" width="58" height="28" rx="6" fill="#10b981" fill-opacity=".12" stroke="#10b981" stroke-opacity=".5"/><text x="73" y="187" text-anchor="middle" fill="#6ee7b7">Vue</text>
+  <rect x="112" y="168" width="96" height="28" rx="6" fill="#6366f1" fill-opacity=".14" stroke="#6366f1" stroke-opacity=".6"/><text x="160" y="187" text-anchor="middle" fill="#a5b4fc">Bootstrap</text>
+  <rect x="218" y="168" width="80" height="28" rx="6" fill="#22d3ee" fill-opacity=".12" stroke="#22d3ee" stroke-opacity=".5"/><text x="258" y="187" text-anchor="middle" fill="#67e8f9">Node.js</text>
+  <rect x="308" y="168" width="104" height="28" rx="6" fill="#f59e0b" fill-opacity=".12" stroke="#f59e0b" stroke-opacity=".5"/><text x="360" y="187" text-anchor="middle" fill="#fcd34d">REST APIs</text>
+</g>
+<g>
+  <path d="M860 170 H1130" stroke="#1e293b"/>
+  <path class="ar" d="M860,140 L890,128 L920,134 L950,112 L980,120 L1010,98 L1040,104 L1070,82 L1100,90 L1130,66 L1130,170 L860,170 Z" fill="url(#a)"/>
+  <path class="ln" d="M860,140 L890,128 L920,134 L950,112 L980,120 L1010,98 L1040,104 L1070,82 L1100,90 L1130,66" fill="none" stroke="url(#l)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>

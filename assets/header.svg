@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Aryan Kashikar">
+<defs>
+  <linearGradient id="line" x1="0" x2="1"><stop offset="0" stop-color="#6366f1"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+  <linearGradient id="area" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#22d3ee" stop-opacity=".35"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></linearGradient>
+  <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#6366f1" stop-opacity=".55"/><stop offset="1" stop-color="#6366f1" stop-opacity=".08"/></linearGradient>
+  <linearGradient id="under" x1="0" x2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#6366f1"/></linearGradient>
+  <radialGradient id="glow" cx=".78" cy=".2" r=".6"><stop offset="0" stop-color="#22d3ee" stop-opacity=".18"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#94a3b8" stroke-opacity=".07"/></pattern>
+  <clipPath id="c"><rect x="1" y="1" width="1198" height="318" rx="20"/></clipPath>
+</defs>
+<style>
+  .t{font-family:'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif} .m{font-family:'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace}
+  .fade{opacity:0;animation:fade .9s ease forwards}
+  @keyframes fade{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+  .ln{stroke-dasharray:900;stroke-dashoffset:900;animation:draw 2.4s .3s ease-out forwards}
+  @keyframes draw{to{stroke-dashoffset:0}}
+  .ar{opacity:0;animation:fadein 1.2s 1.6s ease forwards} @keyframes fadein{to{opacity:1}}
+  .pt{fill:#0b1220;stroke:#22d3ee;stroke-width:2.5;opacity:0;animation:pop .35s ease forwards}
+  @keyframes pop{from{opacity:0;r:0}to{opacity:1;r:4.5}}
+  .bar{fill:url(#bar);transform-box:fill-box;transform-origin:bottom;transform:scaleY(0);animation:grow .8s cubic-bezier(.2,.8,.2,1) forwards}
+  @keyframes grow{to{transform:scaleY(1)}}
+  .live{animation:blink 1.6s ease-in-out infinite} @keyframes blink{50%{opacity:.25}}
+  .scan{animation:scan 5s 3s linear infinite} @keyframes scan{from{transform:translateX(0)}to{transform:translateX(600px)}}
+</style>
+<g clip-path="url(#c)">
+  <rect width="1200" height="320" fill="#0b1220"/>
+  <rect width="1200" height="320" fill="url(#grid)"/>
+  <rect width="1200" height="320" fill="url(#glow)"/>
+  <g transform="translate(720,48) scale(0.76) translate(-560,0)"><rect class="bar" x="580" y="237.0" width="34" height="33.0" rx="5" style="animation-delay:0.10s"/><rect class="bar" x="652" y="219.4" width="34" height="50.6" rx="5" style="animation-delay:0.18s"/><rect class="bar" x="724" y="229.3" width="34" height="40.7" rx="5" style="animation-delay:0.26s"/><rect class="bar" x="796" y="205.1" width="34" height="64.9" rx="5" style="animation-delay:0.34s"/><rect class="bar" x="868" y="212.8" width="34" height="57.2" rx="5" style="animation-delay:0.42s"/><rect class="bar" x="940" y="193.0" width="34" height="77.0" rx="5" style="animation-delay:0.50s"/><rect class="bar" x="1012" y="199.6" width="34" height="70.4" rx="5" style="animation-delay:0.58s"/><rect class="bar" x="1084" y="182.0" width="34" height="88.0" rx="5" style="animation-delay:0.66s"/>
+  <path class="ar" d="M560,190 L620,178 L680,184 L740,158 L800,166 L860,136 L920,144 L980,114 L1040,122 L1100,92 L1160,80 L1160,230 L560,230 Z" fill="url(#area)"/>
+  <path class="ln" d="M560,190 L620,178 L680,184 L740,158 L800,166 L860,136 L920,144 L980,114 L1040,122 L1100,92 L1160,80" fill="none" stroke="url(#line)" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle class="pt" cx="560" cy="190" r="4.5" style="animation-delay:0.25s"/><circle class="pt" cx="620" cy="178" r="4.5" style="animation-delay:0.41s"/><circle class="pt" cx="680" cy="184" r="4.5" style="animation-delay:0.57s"/><circle class="pt" cx="740" cy="158" r="4.5" style="animation-delay:0.73s"/><circle class="pt" cx="800" cy="166" r="4.5" style="animation-delay:0.89s"/><circle class="pt" cx="860" cy="136" r="4.5" style="animation-delay:1.05s"/><circle class="pt" cx="920" cy="144" r="4.5" style="animation-delay:1.21s"/><circle class="pt" cx="980" cy="114" r="4.5" style="animation-delay:1.37s"/><circle class="pt" cx="1040" cy="122" r="4.5" style="animation-delay:1.53s"/><circle class="pt" cx="1100" cy="92" r="4.5" style="animation-delay:1.69s"/><circle class="pt" cx="1160" cy="80" r="4.5" style="animation-delay:1.85s"/>
+  <line class="scan" x1="560" y1="30" x2="560" y2="275" stroke="#22d3ee" stroke-opacity=".35" stroke-dasharray="4 6"/>
+</g></g>
+<rect x="1" y="1" width="1198" height="318" rx="20" fill="none" stroke="#1e293b" stroke-width="2"/>
+<g class="fade" style="animation-delay:.1s">
+  <circle class="live" cx="66" cy="78" r="5" fill="#10b981"/>
+  <text x="80" y="83" class="m" font-size="14" fill="#10b981" letter-spacing="1">SOFTWARE  ×  DATA ANALYTICS</text>
+</g>
+<g class="fade" style="animation-delay:.35s">
+  <text x="60" y="152" class="t" font-size="64" font-weight="800" fill="#f8fafc" letter-spacing="-1.5">Aryan Kashikar</text>
+  <rect x="62" y="168" width="0" height="4" rx="2" fill="url(#under)"><animate attributeName="width" from="0" to="140" begin="1s" dur=".8s" fill="freeze"/></rect>
+</g>
+<g class="fade" style="animation-delay:.6s">
+  <text x="60" y="210" class="t" font-size="22" fill="#cbd5e1">Information Systems @ Singapore Management University</text>
+  <text x="60" y="244" class="t" font-size="19" fill="#94a3b8">Building with code. <tspan fill="#22d3ee" font-weight="600">Deciding with data.</tspan></text>
+</g>
+</svg>
