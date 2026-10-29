@@ -16,9 +16,8 @@
 <text x="44" y="144" class="t" font-size="18" fill="#cbd5e1">7 audit red-flag tests on <tspan fill="#f8fafc" font-weight="700">S$123.8B</tspan> of Singapore tenders → <tspan fill="#fca5a5" font-weight="700">24 priority pairs</tspan></text>
 <g class="m" font-size="13">
   <rect x="44" y="168" width="76" height="28" rx="6" fill="#22d3ee" fill-opacity=".12" stroke="#22d3ee" stroke-opacity=".55"/><text x="82" y="187" text-anchor="middle" fill="#67e8f9">MySQL</text>
-  <rect x="130" y="168" width="206" height="28" rx="6" fill="#6366f1" fill-opacity=".12" stroke="#6366f1" stroke-opacity=".55"/><text x="233" y="187" text-anchor="middle" fill="#a5b4fc">Python · pandas · SciPy</text>
-  <rect x="346" y="168" width="92" height="28" rx="6" fill="#f59e0b" fill-opacity=".12" stroke="#f59e0b" stroke-opacity=".55"/><text x="392" y="187" text-anchor="middle" fill="#fcd34d">Power BI</text>
-  <rect x="448" y="168" width="132" height="28" rx="6" fill="#f87171" fill-opacity=".12" stroke="#f87171" stroke-opacity=".55"/><text x="514" y="187" text-anchor="middle" fill="#fca5a5">Benford's Law</text>
+  <rect x="130" y="168" width="310" height="28" rx="6" fill="#6366f1" fill-opacity=".12" stroke="#6366f1" stroke-opacity=".55"/><text x="285" y="187" text-anchor="middle" fill="#a5b4fc">Python · pandas · SciPy · matplotlib</text>
+  <rect x="450" y="168" width="92" height="28" rx="6" fill="#f59e0b" fill-opacity=".12" stroke="#f59e0b" stroke-opacity=".55"/><text x="496" y="187" text-anchor="middle" fill="#fcd34d">Power BI</text>
   </g>
 <g>
   <path d="M950 171 H1160" stroke="#1e293b"/>
