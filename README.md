@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Aryan Kashikar — Information Systems @ SMU" width="100%" />
+  <img src="./assets/header.svg?v=3" alt="Aryan Kashikar — Information Systems @ SMU" width="100%" />
 </p>
 
 <p align="center">
@@ -8,26 +8,20 @@
   <a href="./AryanKashikar_Resume.pdf"><img src="https://img.shields.io/badge/Resume-2563EB?style=flat-square&logo=readthedocs&logoColor=white" alt="Resume" /></a>
 </p>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./assets/divider.svg?v=3" width="100%" alt="" />
 
-<img src="./assets/about.svg" alt="About me" width="100%" />
+<img src="./assets/about.svg?v=3" alt="About me" width="100%" />
 
 <a href="https://github.com/Aryankashikar/gebiz-procurement-red-flags">
-  <img src="./assets/project.svg" alt="Featured project: GeBIZ Procurement Red Flags" width="100%" />
+  <img src="./assets/project.svg?v=3" alt="Featured project: GeBIZ Procurement Red Flags" width="100%" />
 </a>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./assets/divider.svg?v=3" width="100%" alt="" />
 
 ### Tech stack
 
-<img src="./assets/data_stack.svg" alt="Data analytics: Python, MySQL, pandas, NumPy, Matplotlib, Power BI, Excel" width="100%" />
+<img src="./assets/data_stack.svg?v=3" alt="Data analytics: Python, MySQL, pandas, NumPy, Matplotlib, Power BI, Excel" width="100%" />
 
-**Web development**
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,vue,react,bootstrap,nodejs,express,mongodb&theme=light" alt="Web stack" />
-</p>
+<img src="./assets/web_stack.svg?v=3" alt="Web development: JavaScript, TypeScript, HTML, CSS, Vue, React, Bootstrap, Node.js, Express, MongoDB" width="100%" />
 
-**Languages & tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,swift,git,github,docker,linux,postman,figma&theme=light" alt="Languages and tools" />
-</p>
+<img src="./assets/tools_stack.svg?v=3" alt="Languages and tools: C++, Swift, Git, GitHub, Docker, Linux, Postman, Figma" width="100%" />
