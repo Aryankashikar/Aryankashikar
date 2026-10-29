@@ -3,14 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3200&pause=1000&color=0EA5A4&center=true&vCenter=true&width=600&lines=Building+clean%2C+useful+web+apps;Turning+data+into+decisions;Always+learning+something+new" alt="Typing intro" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/aryan-kashikar-40944631a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:aryankashikar@gmail.com"><img src="https://img.shields.io/badge/Email-0EA5A4?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="./AryanKashikar_Resume.pdf"><img src="https://img.shields.io/badge/Resume-2563EB?style=flat-square&logo=readthedocs&logoColor=white" alt="Resume" /></a>
 </p>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
@@ -25,14 +20,7 @@
 
 ### Tech stack
 
-**Data analytics**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,mysql&theme=light" alt="Python, MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="48" alt="Pandas" />
-  <br/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
-</p>
+<img src="./assets/data_stack.svg" alt="Data analytics: Python, MySQL, pandas, NumPy, Matplotlib, Power BI, Excel" width="100%" />
 
 **Web development**
 <p>
